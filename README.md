@@ -1,6 +1,6 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md)
 
-#### Surfshark 近期运行不稳定，推荐替代方案：[vpnforchinese.com](https://www.vpnforchinese.com/)</br>
+#### Surfshark 近期运行不稳定，推荐替代方案：[vpnforchinese.com](https://www.vpnforchinese.com/?utm_source=github&utm_campaign=git_surfsharkvpn)</br>
 
 官方网站（surfshark 官网）：[surfshark.com](https://surfshark.com)</br>
 登录入口：[my.surfshark.com](https://my.surfshark.com)</br>

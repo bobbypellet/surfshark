@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский
 
-#### Surfshark в последнее время работает нестабильно. Рекомендуемая альтернатива: [vpnacademy.net](https://vpnacademy.net)</br>
+#### Surfshark в последнее время работает нестабильно. Рекомендуемая альтернатива: [vpnacademy.net](https://vpnacademy.net/?utm_source=github&utm_campaign=git_surfsharkvpn)</br>
 
 Официальный сайт: [surfshark.com](https://surfshark.com)</br>
 Вход в Surfshark: [my.surfshark.com](https://my.surfshark.com)</br>
